@@ -100,9 +100,8 @@ Key works informing this project:
  
 André Ferreira — BSc Bioinformatics student at the Faculty of Sciences, University of Porto (FCUP). Background in pharmaceutical sciences (FFUP). Interests: computational chemistry, ML for drug discovery, CNS pharmacology, and scientific writing in both Portuguese and English.
  
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
-- ORCID: [your-orcid-if-created]
+- LinkedIn: linkedin.com/in/andreferreira909
+- Email: andreduartferreira@gmail.com
 ## Licence
  
 This project is released under the MIT Licence. Data remain subject to the terms of their original sources.
